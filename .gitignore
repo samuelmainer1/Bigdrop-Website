@@ -20,6 +20,7 @@ tmp_*
 
 # snapshot artifacts (not source)
 *.zip
+!updates/*.zip
 server/data/db.json.bak
 server/data/db.json.pre-restore
 server/data/*.pre-*
